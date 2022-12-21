@@ -1,0 +1,2 @@
+jp:
+	jupyter notebook
