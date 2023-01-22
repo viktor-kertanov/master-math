@@ -27,3 +27,7 @@
 
 297 × 420 mm
 11.7 × 16.5 inches
+
+# AxiDraw: Python reference
+
+[API: https://axidraw.com/doc/py_api/#installation]
