@@ -31,3 +31,7 @@
 # AxiDraw: Python reference
 
 [API: https://axidraw.com/doc/py_api/#installation]
+
+# TODO
+
+Add bughunts that are not solved to each section.
